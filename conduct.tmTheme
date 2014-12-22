@@ -9,9 +9,9 @@
 	<key>comment</key>
 	<string>Branded color coding</string>
 	<key>name</key>
-	<string>hip_text</string>
+	<string>conduct</string>
 	<key>semanticClass</key>
-	<string>theme.dark.woof</string>
+	<string>theme.dark.hip_text</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -28,13 +28,9 @@
 				<key>lineHighlight</key>
 				<string>#595B5C</string>
 				<key>selection</key>
-				<string>#595B5C</string>
+				<string>#2f3131</string>
 			</dict>
 		</dict>
-
-
-		<!--------------- BASE ----------------->
-
 		<dict>
 			<key>name</key>
 			<string>FOREGROUND RESETS</string>
@@ -68,11 +64,6 @@
 				<string>#5c5c5c</string>
 			</dict>
 		</dict>
-
-
-		<!--------------- STANDARD ----------------->
-
-
 		<dict>
 			<key>name</key>
 			<string>GENERIC KEYWORD</string>
@@ -95,11 +86,6 @@
 				<string>#b28964</string>
 			</dict>
 		</dict>
-
-
-		<!--------------- HTML ----------------->
-
-
 		<dict>
 			<key>name</key>
 			<string>HTML ATTRIBUTE</string>
@@ -122,11 +108,6 @@
 				<string>#30A480</string>
 			</dict>
 		</dict>
-
-
-		<!--------------- CSS ----------------->
-
-
 		<dict>
 			<key>name</key>
 			<string>CSS KEYWORD</string>
@@ -149,11 +130,6 @@
 				<string>#3e99c6</string>
 			</dict>
 		</dict>
-
-
-		<!--------------- PHP ----------------->
-
-
 		<dict>
 			<key>name</key>
 			<string>PHP KEYWORD</string>
@@ -162,7 +138,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#bcaac2</string>
+				<string>#ba9ac1</string>
 			</dict>
 		</dict>
 		<dict>
@@ -173,14 +149,9 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A07AA9</string>
+				<string>#a2669c</string>
 			</dict>
 		</dict>
-
-
-		<!--------------- RUBY ----------------->
-
-
 		<dict>
 			<key>name</key>
 			<string>RUBY KEYWORD</string>
@@ -203,38 +174,6 @@
 				<string>#E95353</string>
 			</dict>
 		</dict>
-
-
-		<!--------------- PYTHON ----------------->
-
-
-		<!-- <dict>
-			<key>name</key>
-			<string>PYTHON KEYWORD</string>
-			<key>scope</key>
-			<string>keyword.control.import.python, keyword.control.import.from.python, keyword.control.flow.python, keyword.operator.logical.python, keyword.other.python, keyword.operator.comparison.python, keyword.operator.assignment.augmented.python, keyword.operator.arithmetic.python, keyword.operator.assignment.python</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#ffb06d</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>PYTHON STORAGE</string>
-			<key>scope</key>
-			<string>storage.type.class.python, storage.type.function.python, storage.type.function.inline.python, storage.type.string.python</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#FF8319</string>
-			</dict>
-		</dict> -->
-
-
-		<!--------------- JS and COFFEE ----------------->
-
-
 		<dict>
 			<key>name</key>
 			<string>JS and COFFEE KEYWORD</string>
@@ -257,8 +196,6 @@
 				<string>#f9b901</string>
 			</dict>
 		</dict>
-
-
 	</array>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
