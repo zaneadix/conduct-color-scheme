@@ -11,6 +11,15 @@ Conduct languages in color in Sublime Text.
 
 This is something I toy around with here and there hoping I eventually find a working color scheme just right for the things I do at work. After 8 hours of digging through different languages my brain can kind of shut down so these colors help keep me pointed. Pleanty of improvements can and will be made.
 
+Currently supports
+* JS
+* Ruby
+* PHP
+* CSS
+* HTML 
+
+(Also uses shades of brown for unsupported languages)
+
 
 ### Simple and readable
 ![](images/js.png)
