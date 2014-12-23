@@ -21,9 +21,6 @@ This is something I toy around with here and there hoping I eventually find a wo
 ### Notice how HTML elements are green like the HTML markup below.
 ![](images/css.png)
 
-### Look at that yellow script tag. Just like the yellow JS code.
-![](images/html.png)
-
-Totally easy to see CSS. Even easier to so PHP.
+Totally easy to see CSS. Even easier to see PHP and JS.
 ![](images/php.png)
 
