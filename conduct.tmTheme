@@ -90,7 +90,7 @@
 			<key>name</key>
 			<string>HTML ATTRIBUTE</string>
 			<key>scope</key>
-			<string>entity.other.attribute-name.html, doctype</string>
+			<string>entity.other.attribute-name.html, entity.other.attribute-name.id.html, meta.attribute-with-value.id.html, doctype</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -156,7 +156,7 @@
 			<key>name</key>
 			<string>RUBY KEYWORD</string>
 			<key>scope</key>
-			<string>constant.language.ruby, keyword.control.ruby, keyword.control.pseudo-method.ruby, keyword.operator.arithmetic.ruby, keyword.operator.assignment.ruby, keyword.operator.assignment.augmented.ruby, keyword.operator.comparison.ruby, keyword.operator.logical.ruby, keyword.operator.other.ruby, keyword.other.special-method.ruby, punctuation.separator.key-value, punctuation.separator.other.ruby, meta.module.ruby, punctuation.definition.constant.ruby, punctuation.separator.variable.ruby</string>
+			<string>constant.language.ruby, keyword.control.ruby, keyword.control.pseudo-method.ruby, keyword.operator.arithmetic.ruby, keyword.operator.assignment.ruby, keyword.operator.assignment.augmented.ruby, keyword.operator.comparison.ruby, keyword.operator.logical.ruby, keyword.operator.other.ruby, keyword.other.special-method.ruby, punctuation.separator.key-value.ruby, punctuation.separator.other.ruby, meta.module.ruby, punctuation.definition.constant.ruby, punctuation.separator.variable.ruby</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
