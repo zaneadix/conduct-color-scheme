@@ -90,7 +90,7 @@
 			<key>name</key>
 			<string>HTML ATTRIBUTE</string>
 			<key>scope</key>
-			<string>entity.other.attribute-name.html, entity.other.attribute-name.id.html, meta.attribute-with-value.id.html, doctype</string>
+			<string>entity.other.attribute-name.html, entity.other.attribute-name.id.html, doctype</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
